@@ -13,13 +13,11 @@ A simple Python module for recognizing handwritten using machine learning. Desig
 
 ## Installation
 
-Install locally:
+Install from GitHub:
 
-pip install .
-
-Or install from GitHub:
-
+```bash
 pip install git+https://github.com/littlecommandcat/handwriting_recognizer.git
+```
 
 ## Quick Example
 ```py
